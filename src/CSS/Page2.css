@@ -1,0 +1,13 @@
+.main1{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: violet;
+}
+.link2{
+    text-align: right;
+}
+#text1{
+    text-decoration: line-through;
+    border-style: solid;
+    padding:10px;
+}
